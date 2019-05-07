@@ -3,8 +3,6 @@
   "packagesPrefix": "@ckeditor/ckeditor5-",
   "dependencies": {
     "@amazee/ckeditor5-template": "git@github.com:frega/ckeditor5-template.git#ckeditor5v12",
-    "@amazee/ckeditor5-drupal-linkit": "git@github.com:frega/ckeditor5-drupal-linkit.git#ckeditor5v12",
-    "@amazee/ckeditor5-drupal-media": "git@github.com:frega/ckeditor5-drupal-media.git#ckeditor5v12",
     "@amazee/ckeditor5-build-drupal-sections": "git@github.com:frega/ckeditor5-build-drupal-sections.git#ckeditor5v12",
 
     "@ckeditor/ckeditor5-ui": "ckeditor/ckeditor5-ui",

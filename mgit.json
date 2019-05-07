@@ -4,10 +4,9 @@
   "dependencies": {
     "@amazee/ckeditor5-template": "git@github.com:frega/ckeditor5-template.git#ckeditor5v12",
     "@amazee/ckeditor5-build-drupal-sections": "git@github.com:frega/ckeditor5-build-drupal-sections.git#ckeditor5v12",
-
-    "@ckeditor/ckeditor5-ui": "ckeditor/ckeditor5-ui",
-    "@ckeditor/ckeditor5-core": "ckeditor/ckeditor5-core",
-    "@ckeditor/ckeditor5-theme-lark": "ckeditor/ckeditor5-theme-lark",
+    "@ckeditor/ckeditor5-ui": "ckeditor/ckeditor5-ui#v12.1.0",
+    "@ckeditor/ckeditor5-core": "ckeditor/ckeditor5-core#v12.1.0",
+    "@ckeditor/ckeditor5-theme-lark": "ckeditor/ckeditor5-theme-lark#v13.0.1",
     "@amazee/editor-components": "git@github.com:AmazeeLabs/editor-components.git"
   }
 }
